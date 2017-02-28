@@ -35,7 +35,7 @@ public class TestLambda3 {
 		List<String> strList = filterStr(list, (s) -> s.length() > 3);
 		
 		for (String str : strList) {
-			System.out.println(str);
+			System.out.println(str+"");
 		}
 	}
 	
