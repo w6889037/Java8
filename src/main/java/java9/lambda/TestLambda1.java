@@ -1,4 +1,4 @@
-package lambda;
+package java9.lambda;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,6 +6,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.TreeSet;
 
+import java9.lambda.Employee;
+import java9.lambda.MyPredicate;
 import org.junit.Test;
 
 public class TestLambda1 {

@@ -1,10 +1,11 @@
-package stream;
+package java9.stream;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
+import java9.stream.Employee;
 import org.junit.Test;
 
 /*

@@ -1,4 +1,4 @@
-package stream;
+package java9.stream;
 
 public class Man {
 

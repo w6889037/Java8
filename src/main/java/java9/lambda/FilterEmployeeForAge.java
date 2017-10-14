@@ -1,4 +1,4 @@
-package lambda;
+package java9.lambda;
 
 public class FilterEmployeeForAge implements MyPredicate<Employee>{
 

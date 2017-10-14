@@ -1,4 +1,4 @@
-package stream;
+package java9.stream;
 
 public class SubClass /*extends MyClass*/ implements MyFun, MyInterface{
 

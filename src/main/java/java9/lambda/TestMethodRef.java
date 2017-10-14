@@ -1,4 +1,4 @@
-package lambda;
+package java9.lambda;
 
 import java.io.PrintStream;
 import java.util.Comparator;

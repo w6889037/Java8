@@ -1,4 +1,4 @@
-package stream;
+package java9.stream;
 
 import java.time.DayOfWeek;
 import java.time.Duration;

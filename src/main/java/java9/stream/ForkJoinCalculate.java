@@ -1,4 +1,4 @@
-package stream;
+package java9.stream;
 
 import java.util.concurrent.RecursiveTask;
 

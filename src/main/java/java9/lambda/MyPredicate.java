@@ -1,4 +1,4 @@
-package lambda;
+package java9.lambda;
 
 @FunctionalInterface
 public interface MyPredicate<T> {
