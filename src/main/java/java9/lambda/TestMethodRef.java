@@ -42,8 +42,8 @@ public class TestMethodRef {
 		String[] strs = fun.apply(10);
 		System.out.println(strs.length);
 
-		System.out.println("---------------------------");
-		
+		System.out.println("##---------------------------");
+
 		Function<Integer, Employee[]> fun2 = Employee[] :: new;
 		Employee[] emps = fun2.apply(20);
 		System.out.println(emps.length);
